@@ -1,9 +1,11 @@
-
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1182393335822962698/wonder_pet_1.png" width="400" height="400" />
+</p>
+  
 <p align="center">
   <strong>WONDER PET</strong>
 </p>
 
-#
 ## Table of Contents
 - [🌟 Introduction](#introduction)
 - [🎮 Features](#features)
