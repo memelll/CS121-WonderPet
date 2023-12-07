@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1182282861093584926/Wonder_Pet_-_Advanced_Comp_Prog_2.png" width="600" height="350" />
-</p>
-  
+
 <p align="center">
   <strong>WONDER PET</strong>
 </p>
@@ -142,7 +139,7 @@ Get to know the enthusiastic creators of Wonder Pet!
 <br>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1179423259100454922/01a2350f-a9f4-4879-8608-87cf180e695e.jpg////" width="250" height="250" />
+  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1182331652618338344/324760493_733231447983477_3613885733188523927_n.jpg" width="250" height="250" />
 </p>
 <p align="center">
   Gio Kervin P. Lucero
