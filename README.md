@@ -92,7 +92,7 @@ Explore the world of "Wonder Pet" with our gameplay preview, highlighting the en
 ## 🌏Sustainable Development Goals (SDGs) 
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1182007228526497852/sdg.png" width="600" height="250" />
+  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1182007228526497852/sdg.png" width="550" height="250" />
 </p>
 
 Become a part of the global movement toward sustainability! Wonder Pet aligns with several SDGs, including:
