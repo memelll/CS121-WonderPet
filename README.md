@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1180709301271150623/Java_and_DBMS-Driven_Expense_Tracking_System.png?" width="350" height="350" />
+  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1182282861093584926/Wonder_Pet_-_Advanced_Comp_Prog_2.png" width="600" height="350" />
 </p>
   
 <p align="center">
