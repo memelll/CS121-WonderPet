@@ -119,7 +119,13 @@ SDG 15 aims to protect, restore, and sustainably use terrestrial ecosystems, inc
 </p>
 
 #
-## 🫂Meet the Team
+## 🎥🌟Video Presentation
+<p align="justify">
+Explore the charm of "Wonder Pet" in our video presentation, highlighting its distinctive features and objectives. Immerse yourself in engaging functionalities like feeding and playing to form a unique bond with your virtual companions. Discover how Wonder Pet boosts your virtual pet experience, making meaningful contributions to global initiatives.
+</p>
+
+#
+## 👥Meet the Team
 Get to know the enthusiastic creators of Wonder Pet!
 
 <br>
