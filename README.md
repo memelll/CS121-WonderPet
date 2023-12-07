@@ -54,9 +54,9 @@ Greetings from Wonder Pet, where you can embark on a virtual pet adventure! To s
       
       pygame.init()
       
-      # Set up the Game Window
-      window_width = 800  # Replace with your desired width
-      window_height = 600  # Replace with your desired height
+      # Set up the Game WindoW
+      WIDTH = 800
+      HEIGHT = 600
       game_window = pygame.display.set_mode((window_width, window_height))
       
       # Main game loop
