@@ -81,10 +81,11 @@ Greetings from Wonder Pet, where you can embark on a virtual pet adventure! To s
 Explore the world of "Wonder Pet" with our gameplay preview, highlighting the enjoyable activities of playing, feeding, and building connections with your virtual pets.
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1180152707135307836/370253739_881587323236432_6834652439212325468_n.png?" width="750" height="400" />
-  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1180152707483447406/369950173_723686479639432_237221289834186220_n.png?" width="750" height="400" />
-  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1180152707823173702/393939211_704971728258353_7369036112684413047_n.png?" width="750" height="400" />
-  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1180152708133564427/371445788_908011620674526_3355029812912486760_n.png?" width="750" height="400" />
+  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1182388596842442832/Screenshot_2023-12-08_012101.png" />
+  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1182388596548833360/Screenshot_2023-12-08_012120.png" />
+  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1182388597077319862/Screenshot_2023-12-08_002620.png" />
+  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1182388596263624844/Screenshot_2023-12-08_012552.png" />
+  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1182388595978416198/Screenshot_2023-12-08_013958.png" />
 </p>
 
 #
