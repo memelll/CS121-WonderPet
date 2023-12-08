@@ -60,7 +60,7 @@ Embark on an immersive virtual pet experience with Wonder Pet, where you can eng
 Greetings from Wonder Pet, where you can embark on a virtual pet adventure! To set up and fully enjoy caring for your virtual dog, follow these steps:
 </p>
 
-### ⚙️Prerequisites 
+### ⚙️ Prerequisites 
 - Ensure you have Python installed (compatible with Python 3.12). Download Python 3.12 from the official website: [Python Downloads](https://www.python.org/downloads/).
 
 ### 🛠️Installation 
