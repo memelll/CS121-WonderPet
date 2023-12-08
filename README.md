@@ -35,7 +35,7 @@ Enhanced features for improved employee-manager relationships and precise contro
 Greetings from Wonder Pet, where you can embark on a virtual pet adventure! To set up and fully enjoy caring for your virtual dog, follow these steps:
 
 ### ⚙️Prerequisites 
-- Ensure you have Python installed (compatible with Python 3.x). Download Python from the [official website](https://www.python.org/downloads/): Python Downloads.
+- Ensure you have Python installed (compatible with Python 3.12.0). Download Python 3.12.0 from the official website: [Python Downloads](https://www.python.org/downloads/).
 
 #
 ### 🛠️Installation 
