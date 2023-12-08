@@ -17,7 +17,7 @@
 - [🌏 Sustainable Development Goals (SDGs)](#sustainable-development-goals-sdgs)
 - [🎥🌟 Video Presentation](#video-presentation)
 - [👥 Meet the Team](#meet-the-team)
-- [📊 Self-Assessment for the Project](#self-assessment-for-the-project)
+- [📊 Self-Assessment](#self-assessment)
 
 ---
 ## 🌟Introduction 
@@ -183,7 +183,7 @@ Discover the enthusiastic creators behind Wonder Pet and the individual contribu
 </p>
 
 ---
-## 📊Self-Assessment for the Project
+## 📊Self-Assessment
 
 <p align="justify">
   We, the Wonder Pet team, have conducted a self-assessment of our project based on various criteria. Here are the ratings for the criteria:
