@@ -12,7 +12,6 @@
 - [Getting Started](#getting-started)
    - [⚙️ Prerequisites](#prerequisites)
    - [🛠️ Installation](#installation)
-   - [🚀 Usage](#usage)
 - [🎮👀 Gameplay Preview](#gameplay-preview)
 - [🌏 Sustainable Development Goals (SDGs)](#sustainable-development-goals-sdgs)
 - [👥 Meet the Team](#meet-the-team)
@@ -35,9 +34,8 @@ Enhanced features for improved employee-manager relationships and precise contro
 Greetings from Wonder Pet, where you can embark on a virtual pet adventure! To set up and fully enjoy caring for your virtual dog, follow these steps:
 
 ### ⚙️Prerequisites 
-- Ensure you have Python installed (compatible with Python 3.12.0). Download Python 3.12.0 from the official website: [Python Downloads](https://www.python.org/downloads/).
+- Ensure you have Python installed (compatible with Python 3.12). Download Python 3.12 from the official website: [Python Downloads](https://www.python.org/downloads/).
 
-#
 ### 🛠️Installation 
 - To bring Wonder Pet to life, install Pygame by opening a terminal or command prompt and running:
 
@@ -45,38 +43,12 @@ Greetings from Wonder Pet, where you can embark on a virtual pet adventure! To s
 
 - If pip is not installed, follow the instructions on the official website: [Installing pip](https://pip.pypa.io/en/stable/installation/)
 
+- Ensure you have the latest version of pip by running:
+  
+      python -m pip install --upgrade pip
+  
 - Now that you have all the necessary components, let's proceed to create and run your Wonder Pet game.
 
-#
-
-### 🚀Usage
-- Create a Pygame script by initiating a new Python file (e.g., game.py) in your preferred text editor or integrated development environment (IDE).
-
-      import pygame
-      
-      pygame.init()
-      
-      # Set up the Game Window
-      WIDTH = 800
-      HEIGHT = 600
-      game_window = pygame.display.set_mode((WIDTH, HEIGHT))
-      
-      # Main game loop
-      running = True
-      while running:
-          for event in pygame.event.get():
-              if event.type == pygame.QUIT:
-                  running = False
-      
-          # Update game state and draw on the screen
-      
-          pygame.display.flip()
-      
-      # Quit Pygame
-      pygame.quit()
-
-
-- You are now ready to go! Begin your Wonder Pet adventure by bringing your virtual dogs to life and experiencing the joy of virtual pet ownership. Have fun!
 #
 
 ### 🎮👀Gameplay Preview 
