@@ -26,8 +26,30 @@ Wonder Pet is a Python-based virtual pet game where users care for their digital
 #
 ## 🎮Features
 <p align="justify">
-Enhanced features for improved employee-manager relationships and precise control over expenditures, all driven by our dedicated owner. Your fast track to success in the car industry.
+Embark on an immersive virtual pet experience with Wonder Pet, where you can engage in various activities to care for and enhance the well-being of your virtual companion.
 </p>
+
+#### User Account Management
+- 🧑‍💻 Create an account to save and retrieve the progress of your virtual pet.
+
+#### Pet Care and Progression
+- 📊 Monitor and level up your pet's stats for essential activities such as play, drinking, eating, taking a bath, and sleeping.
+- 🌱 Manage decay mechanics to simulate pet needs and growth.
+
+#### Interactive Gameplay
+- 🍖 Choose from a variety of essential food items to keep your virtual pet healthy.
+- 🛀 Provide relaxation, a refreshing bath, and engaging playtime for your virtual pet.
+
+#### In-Game Currency
+- 💰 Win coins by playing the mini Tic Tac Toe game.
+- 🛒 Use coins to improve your pet's well-being or purchase essential items.
+
+#### Mini-Game
+- 🎮 Have fun and earn coins by playing a mini-game of Tic Tac Toe.
+
+
+#### Dynamic Environment
+- 🌅 Experience changing virtual backgrounds that follow a preset schedule determined by the game's internal clock.
 
 #
 ## Getting Started 
