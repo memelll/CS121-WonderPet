@@ -127,7 +127,7 @@ SDG 15 aims to protect, restore, and sustainably use terrestrial ecosystems, inc
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1toJMIbcGxM8GDsynznatAmTwrbpRzF96/view?t=830" target="_blank">Wonder Pet Video Presentation</a>
+  <a href="https://drive.google.com/file/d/1toJMIbcGxM8GDsynznatAmTwrbpRzF96/view" target="_blank">Wonder Pet Video Presentation</a>
 </p>
 
 
