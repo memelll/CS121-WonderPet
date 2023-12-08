@@ -61,10 +61,12 @@ Greetings from Wonder Pet, where you can embark on a virtual pet adventure! To s
 </p>
 
 ### ⚙️Prerequisites
+<a name="prerequisites"></a>
 
 - Ensure you have Python installed (compatible with Python 3.12). Download Python 3.12 from the official website: [Python Downloads](https://www.python.org/downloads/).
 
 ### 🛠️Installation
+<a name="installation"></a>
 
 - To bring Wonder Pet to life, install Pygame by opening a terminal or command prompt and running:
 
