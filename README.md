@@ -179,7 +179,7 @@ Discover the enthusiastic creators behind Wonder Pet and the individual contribu
   22-03152@g.batstate-u.edu.ph
 </p>
 <p align="center">
-  Contributions (33.3): Programmer, Documentation (README)
+  Contributions (33.3%): Programmer, Documentation (README)
 </p>
 
 ---
