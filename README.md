@@ -55,7 +55,10 @@ Embark on an immersive virtual pet experience with Wonder Pet, where you can eng
 
 ---
 ## 🚀Getting Started 
+
+<p align="justify">
 Greetings from Wonder Pet, where you can embark on a virtual pet adventure! To set up and fully enjoy caring for your virtual dog, follow these steps:
+</p>
 
 ### ⚙️Prerequisites 
 - Ensure you have Python installed (compatible with Python 3.12). Download Python 3.12 from the official website: [Python Downloads](https://www.python.org/downloads/).
@@ -75,9 +78,11 @@ Greetings from Wonder Pet, where you can embark on a virtual pet adventure! To s
 
 ---
 
-### 🎮👀Gameplay Preview 
+### 🎮👀Gameplay Preview
 
+<p align="justify">
 Explore the world of "Wonder Pet" with our gameplay preview, highlighting the enjoyable activities of playing, feeding, and building connections with your virtual pets.
+</p>
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1182388596842442832/Screenshot_2023-12-08_012101.png" />
