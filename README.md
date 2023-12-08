@@ -56,10 +56,10 @@ Greetings from Wonder Pet, where you can embark on a virtual pet adventure! To s
       
       pygame.init()
       
-      # Set up the Game WindoW
+      # Set up the Game Window
       WIDTH = 800
       HEIGHT = 600
-      game_window = pygame.display.set_mode((window_width, window_height))
+      game_window = pygame.display.set_mode((WIDTH, HEIGHT))
       
       # Main game loop
       running = True
@@ -74,6 +74,7 @@ Greetings from Wonder Pet, where you can embark on a virtual pet adventure! To s
       
       # Quit Pygame
       pygame.quit()
+
 
 - You are now ready to go! Begin your Wonder Pet adventure by bringing your virtual dogs to life and experiencing the joy of virtual pet ownership. Have fun!
 #
