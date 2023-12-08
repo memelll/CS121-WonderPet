@@ -6,6 +6,7 @@
   <strong>WONDER PET</strong>
 </p>
 
+#
 ## Table of Contents
 - [🌟 Introduction](#introduction)
 - [🎮 Features](#features)
@@ -138,6 +139,9 @@ Get to know the enthusiastic creators of Wonder Pet!
 <p align="center">
   22-07128@g.batstate-u.edu.ph
 </p>
+<p align="center">
+  33.3% | Programmer | PowerPoint Presentation
+</p>
 
 <br>
 
@@ -150,7 +154,9 @@ Get to know the enthusiastic creators of Wonder Pet!
 <p align="center">
   22-03412@g.batstate-u.edu.ph
 </p>
-
+<p align="center">
+  33.3% | Programmer | Video Presentation
+</p>
 <br>
 
 <p align="center">
@@ -162,3 +168,7 @@ Get to know the enthusiastic creators of Wonder Pet!
 <p align="center">
   22-03152@g.batstate-u.edu.ph
 </p>
+<p align="center">
+  33.3% | Programmer | Documentation (README)
+</p>
+<br>
