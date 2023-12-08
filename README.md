@@ -6,7 +6,7 @@
   <strong>WONDER PET</strong>
 </p>
 
-#
+---
 ## Table of Contents
 - [🌟 Introduction](#introduction)
 - [🎮 Features](#features)
@@ -15,16 +15,17 @@
    - [🛠️ Installation](#installation)
 - [🎮👀 Gameplay Preview](#gameplay-preview)
 - [🌏 Sustainable Development Goals (SDGs)](#sustainable-development-goals-sdgs)
-- [👥 Meet the Team](#meet-the-team)
 - [🎥🌟 Video Presentation](#video-presentation)
+- [👥 Meet the Team](#meet-the-team)
+- [📊 Self-Assessment](#self-assessment)
 
-#
+---
 ## 🌟Introduction 
 <p align="justify">
 Wonder Pet is a Python-based virtual pet game where users care for their digital dogs through activities like feeding, bathing, and playing. The game aims to immerse users in the challenges and joys of virtual pet ownership. With vibrant graphics and engaging gameplay, Wonder Pet presents an entertaining way for users to unwind and build a strong bond with their virtual companions.
 </p>
 
-#
+---
 ## 🎮Features
 <p align="justify">
 Embark on an immersive virtual pet experience with Wonder Pet, where you can engage in various activities to care for and enhance the well-being of your virtual companion.
@@ -52,7 +53,7 @@ Embark on an immersive virtual pet experience with Wonder Pet, where you can eng
 - #### Dynamic Environment
   - 🌅 Experience changing virtual backgrounds that follow a preset schedule determined by the game's internal clock.
 
-#
+---
 ## Getting Started 
 Greetings from Wonder Pet, where you can embark on a virtual pet adventure! To set up and fully enjoy caring for your virtual dog, follow these steps:
 
@@ -72,7 +73,7 @@ Greetings from Wonder Pet, where you can embark on a virtual pet adventure! To s
   
 - Now that you have all the necessary components, let's proceed to create and run your Wonder Pet game.
 
-#
+---
 
 ### 🎮👀Gameplay Preview 
 
@@ -86,7 +87,7 @@ Explore the world of "Wonder Pet" with our gameplay preview, highlighting the en
   <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1182388595978416198/Screenshot_2023-12-08_013958.png" />
 </p>
 
-#
+---
 ## 🌏Sustainable Development Goals (SDGs) 
 
 <p align="center">
@@ -114,7 +115,7 @@ SDG 12 focuses on sustainable consumption and production patterns, with an empha
 SDG 15 aims to protect, restore, and sustainably use terrestrial ecosystems, including measures for Human-Animal Conflict Mitigation. Strategies to reduce conflicts between humans and animals, such as establishing corridors and employing non-lethal methods for domestic management, minimize negative interactions. Protecting and nurturing life on land, including animal species, is vital for the health and sustainability of terrestrial ecosystems, contributing to the overall achievement of SDG 15.
 </p>
 
-#
+---
 ## 🎥🌟Video Presentation
 <p align="justify">
   Explore the charm of "Wonder Pet" in our video presentation, highlighting its distinctive features and objectives. Immerse yourself in engaging functionalities like feeding and playing to form a unique bond with your virtual companions. Discover how Wonder Pet boosts your virtual pet experience, making meaningful contributions to global initiatives.
@@ -125,9 +126,9 @@ SDG 15 aims to protect, restore, and sustainably use terrestrial ecosystems, inc
 </p>
 
 
-#
+---
 ## 👥Meet the Team
-Get to know the enthusiastic creators of Wonder Pet!
+Discover the enthusiastic creators behind Wonder Pet and the individual contributions that bring our project to life!
 
 <br>
 <p align="center">
@@ -140,7 +141,7 @@ Get to know the enthusiastic creators of Wonder Pet!
   22-07128@g.batstate-u.edu.ph
 </p>
 <p align="center">
-  33.3% | Programmer | PowerPoint Presentation
+  Contributions (33.3%): Programmer, PowerPoint Presentation
 </p>
 
 <br>
@@ -155,7 +156,7 @@ Get to know the enthusiastic creators of Wonder Pet!
   22-03412@g.batstate-u.edu.ph
 </p>
 <p align="center">
-  33.3% | Programmer | Video Presentation
+  Contributions (33.3%): Programmer, Video Presentation
 </p>
 <br>
 
@@ -169,6 +170,28 @@ Get to know the enthusiastic creators of Wonder Pet!
   22-03152@g.batstate-u.edu.ph
 </p>
 <p align="center">
-  33.3% | Programmer | Documentation (README)
+  Contributions (33.3): Programmer, Documentation (README)
 </p>
 <br>
+
+---
+## 📊 Self-Assessment for the Project
+
+<p align="justify">
+  We, the Wonder Pet team, have conducted a self-assessment of our project based on various criteria. Here are the ratings for the criteria:
+</p>
+
+- **Code Reusability:** 3
+- **Maintainability:** 3
+- **Scalability:** 4
+- **Execution:** 3
+- **Originality:** 4
+- **Overall Impression:** 3
+
+<p align="justify">
+  These ratings reflect our evaluation of the project's performance in certain areas. We continuously strive to improve and appreciate your suggestions for future enhancements.
+</p>
+
+<p align="justify">
+  Thank you for being a part of our Wonder Pet journey!
+</p>
