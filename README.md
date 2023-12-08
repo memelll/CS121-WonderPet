@@ -177,7 +177,6 @@ Discover the enthusiastic creators behind Wonder Pet and the individual contribu
 <p align="center">
   Contributions (33.3): Programmer, Documentation (README)
 </p>
-<br>
 
 ---
 ## 📊Self-Assessment for the Project
