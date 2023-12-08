@@ -11,8 +11,8 @@
 - [🌟 Introduction](#introduction)
 - [🎮 Features](#features)
 - [🚀 Getting Started](#getting-started)
-  - [⚙️Prerequisites](#prerequisites)
-  - [🛠️Installation](#installation)
+  - [⚙️ Prerequisites](#prerequisites)
+  - [🛠️ Installation](#installation)
 - [🎮👀 Gameplay Preview](#gameplay-preview)
 - [🌏 Sustainable Development Goals (SDGs)](#sustainable-development-goals-sdgs)
 - [🎥🌟 Video Presentation](#video-presentation)
@@ -60,10 +60,12 @@ Embark on an immersive virtual pet experience with Wonder Pet, where you can eng
 Greetings from Wonder Pet, where you can embark on a virtual pet adventure! To set up and fully enjoy caring for your virtual dog, follow these steps:
 </p>
 
+#
 ### ⚙️Prerequisites
 
 - Ensure you have Python installed (compatible with Python 3.12). Download Python 3.12 from the official website: [Python Downloads](https://www.python.org/downloads/).
 
+#
 ### 🛠️Installation
 
 - To bring Wonder Pet to life, install Pygame by opening a terminal or command prompt and running:
