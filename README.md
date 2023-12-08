@@ -43,7 +43,7 @@ Greetings from Wonder Pet, where you can embark on a virtual pet adventure! To s
 
       pip install pygame
 
-- If pip is not installed, follow the instructions on the [official website](https://pip.pypa.io/en/stable/installation/): Installing pip.
+- If pip is not installed, follow the instructions on the official website: [Installing pip](https://pip.pypa.io/en/stable/installation/)
 
 - Now that you have all the necessary components, let's proceed to create and run your Wonder Pet game.
 
