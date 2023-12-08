@@ -17,7 +17,7 @@
 - [🌏 Sustainable Development Goals (SDGs)](#sustainable-development-goals-sdgs)
 - [🎥🌟 Video Presentation](#video-presentation)
 - [👥 Meet the Team](#meet-the-team)
-- [📊 Self-Assessment](#self-assessment)
+- [📊 Self-Assessment for the Project](#self-assessment-for-the-project)
 
 ---
 ## 🌟Introduction 
