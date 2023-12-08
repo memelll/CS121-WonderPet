@@ -188,7 +188,7 @@ Discover the enthusiastic creators behind Wonder Pet and the individual contribu
 - **Code Reusability:** 3
 - **Maintainability:** 3
 - **Scalability:** 4
-- **Execution:** 3
+- **Execution:** 4
 - **Originality:** 4
 - **Overall Impression:** 3
 
