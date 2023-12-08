@@ -10,7 +10,7 @@
 ## Table of Contents
 - [🌟 Introduction](#introduction)
 - [🎮 Features](#features)
-- [Getting Started](#getting-started)
+- [🚀 Getting Started](#getting-started)
    - [⚙️ Prerequisites](#prerequisites)
    - [🛠️ Installation](#installation)
 - [🎮👀 Gameplay Preview](#gameplay-preview)
@@ -20,13 +20,13 @@
 - [📊 Self-Assessment](#self-assessment)
 
 ---
-## 🌟Introduction 
+## 🌟 Introduction 
 <p align="justify">
 Wonder Pet is a Python-based virtual pet game where users care for their digital dogs through activities like feeding, bathing, and playing. The game aims to immerse users in the challenges and joys of virtual pet ownership. With vibrant graphics and engaging gameplay, Wonder Pet presents an entertaining way for users to unwind and build a strong bond with their virtual companions.
 </p>
 
 ---
-## 🎮Features
+## 🎮 Features
 <p align="justify">
 Embark on an immersive virtual pet experience with Wonder Pet, where you can engage in various activities to care for and enhance the well-being of your virtual companion.
 </p>
@@ -54,13 +54,13 @@ Embark on an immersive virtual pet experience with Wonder Pet, where you can eng
   - 🌅 Experience changing virtual backgrounds that follow a preset schedule determined by the game's internal clock.
 
 ---
-## Getting Started 
+## 🚀 Getting Started 
 Greetings from Wonder Pet, where you can embark on a virtual pet adventure! To set up and fully enjoy caring for your virtual dog, follow these steps:
 
-### ⚙️Prerequisites 
+### ⚙️ Prerequisites 
 - Ensure you have Python installed (compatible with Python 3.12). Download Python 3.12 from the official website: [Python Downloads](https://www.python.org/downloads/).
 
-### 🛠️Installation 
+### 🛠️ Installation 
 - To bring Wonder Pet to life, install Pygame by opening a terminal or command prompt and running:
 
       pip install pygame
@@ -75,7 +75,7 @@ Greetings from Wonder Pet, where you can embark on a virtual pet adventure! To s
 
 ---
 
-### 🎮👀Gameplay Preview 
+### 🎮👀 Gameplay Preview 
 
 Explore the world of "Wonder Pet" with our gameplay preview, highlighting the enjoyable activities of playing, feeding, and building connections with your virtual pets.
 
@@ -88,7 +88,7 @@ Explore the world of "Wonder Pet" with our gameplay preview, highlighting the en
 </p>
 
 ---
-## 🌏Sustainable Development Goals (SDGs) 
+## 🌏 Sustainable Development Goals (SDGs) 
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1182007228526497852/sdg.png" width="550" height="250" />
@@ -116,7 +116,7 @@ SDG 15 aims to protect, restore, and sustainably use terrestrial ecosystems, inc
 </p>
 
 ---
-## 🎥🌟Video Presentation
+## 🎥🌟 Video Presentation
 <p align="justify">
   Explore the charm of "Wonder Pet" in our video presentation, highlighting its distinctive features and objectives. Immerse yourself in engaging functionalities like feeding and playing to form a unique bond with your virtual companions. Discover how Wonder Pet boosts your virtual pet experience, making meaningful contributions to global initiatives.
 </p>
@@ -127,7 +127,7 @@ SDG 15 aims to protect, restore, and sustainably use terrestrial ecosystems, inc
 
 
 ---
-## 👥Meet the Team
+## 👥 Meet the Team
 Discover the enthusiastic creators behind Wonder Pet and the individual contributions that bring our project to life!
 
 <br>
