@@ -211,6 +211,8 @@ Discover the enthusiastic creators behind Wonder Pet and the individual contribu
   These ratings reflect our evaluation of the project's performance in certain areas. We continuously strive to improve and appreciate your suggestions for future enhancements.
 </p>
 
+<br>
+
 <p align="justify">
   <strong>Breakdown of Contributions</strong>
 </p>
