@@ -13,6 +13,7 @@
 - [🚀 Getting Started](#getting-started)
   - [⚙️ Prerequisites](#prerequisites)
   - [🛠️ Installation](#installation)
+  - [🚀 Run the Game](#run-the-game)
 - [🎮👀 Gameplay Preview](#gameplay-preview)
 - [🌏 Sustainable Development Goals (SDGs)](#sustainable-development-goals-sdgs)
 - [🎥🌟 Video Presentation](#video-presentation)
@@ -63,23 +64,41 @@ Greetings from Wonder Pet, where you can embark on a virtual pet adventure! To s
 ### ⚙️Prerequisites
 <a name="prerequisites"></a>
 
-- Ensure you have Python installed (compatible with Python 3.12). Download Python 3.12 from the official website: [Python Downloads](https://www.python.org/downloads/).
+Make sure you have Python and pip installed:
+
+- [Download Python 3.12](https://www.python.org/downloads/)
+- Install pip following the instructions on the [official website](https://pip.pypa.io/en/stable/installation/)
 
 ### 🛠️Installation
 <a name="installation"></a>
 
-- To bring Wonder Pet to life, install Pygame by opening a terminal or command prompt and running:
+1. Open a terminal or command prompt.
 
-      pip install pygame
+2. Verify that you have the latest version of pip:
+   ```sh
+   python -m pip install --upgrade pip
+   ```
 
-- If pip is not installed, follow the instructions on the official website: [Installing pip](https://pip.pypa.io/en/stable/installation/)
+4. Clone the Wonder Pet repository to your local machine:
+   ```sh
+   git clone https://github.com/memelll/WonderPet.git
+   ```
 
-- Ensure you have the latest version of pip by running:
-  
-      python -m pip install --upgrade pip
-  
-- Now that you have all the necessary components, let's proceed to create and run your Wonder Pet game.
+6. Navigate to the Wonder Pet directory:
+   ```sh
+   cd WonderPet
+   ```
 
+8. Install Pygame by running:
+   ```sh
+   pip install -r requirements.txt
+   ```
+   
+### 🚀Run the Game
+Now that you have set up Wonder Pet, run the game and start your virtual pet adventure:
+  ```sh
+  python main.py
+  ```
 ---
 
 ## 🎮👀Gameplay Preview
