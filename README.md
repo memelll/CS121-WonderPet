@@ -82,18 +82,41 @@ Make sure you have Python and pip installed:
 1. Open a terminal or command prompt.
 
 2. Verify that you have the latest version of pip:
-   ```sh
+   ```bash
    python -m pip install --upgrade pip
    ```
    
+2. **Create a new folder for Wonder Pet:**
+
+   ```bash
+   md WONDERPET
+   ```
+   
+3. Navigate to the newly created folder:
+   ```bash
+   cd WONDERPET
+   ```
+
+3. Clone the Wonder Pet repository to your local machine:
+   ```bash
+   git clone https://github.com/memelll/WonderPet.git
+
+4. Navigate to the Wonder Pet directory:
+   ```bash
+   cd WonderPet
+   ```
+   ```bash
+   cd WONDER PET
+   ```
+   
 3. Install Pygame by running:
-   ```sh
+   ```bash
    pip install -r requirements.txt
    ```
    
 ### 🚀Run the Game
 Now that you have set up Wonder Pet, run the game and start your virtual pet adventure:
-  ```sh
+  ```bash
   python main.py
   ```
 
