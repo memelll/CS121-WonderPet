@@ -64,8 +64,6 @@ Greetings from Wonder Pet, where you can embark on a virtual pet adventure! To s
 ### ⚙️Prerequisites
 <a name="prerequisites"></a>
 
-### Prerequisites
-
 Make sure you have Python and pip installed:
 
 1. **Download Python 3.12:**
