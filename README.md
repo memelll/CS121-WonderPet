@@ -85,20 +85,11 @@ Make sure you have Python and pip installed:
    ```bash
    python -m pip install --upgrade pip
    ```
-   
-3. Clone the Wonder Pet repository to your local machine:
-   ```bash
-   git clone https://github.com/memelll/WonderPet.git
 
-4. Navigate to the Wonder Pet directory:
-   ```bash
-   cd WonderPet
-   ```
-   ```bash
-   cd WONDER PET
-   ```
-   
-5. Install Pygame by running:
+3. Manually download the contents of the WONDER PET folder from the Wonder Pet repository.
+4. Save the downloaded files to a directory of your choice.
+5. Navigate to the directory where you saved the WONDER PET files using the cd command.
+6. Install Pygame by running:
    ```bash
    pip install -r requirements.txt
    ```
@@ -109,8 +100,7 @@ Now that you have set up Wonder Pet, run the game and start your virtual pet adv
   python main.py
   ```
 
-Enjoy playing Wonder Pet and have fun taking care of your virtual dog!
-
+Make sure you have all the required files from the WONDER PET folder in the same directory as main.py. Enjoy playing Wonder Pet and have fun taking care of your virtual dog!
 
 ---
 
