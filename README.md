@@ -64,10 +64,19 @@ Greetings from Wonder Pet, where you can embark on a virtual pet adventure! To s
 ### ⚙️Prerequisites
 <a name="prerequisites"></a>
 
+### Prerequisites
+
 Make sure you have Python and pip installed:
 
-- [Download Python 3.12](https://www.python.org/downloads/)
-- Install pip following the instructions on the [official website](https://pip.pypa.io/en/stable/installation/)
+1. **Download Python 3.12:**
+
+   Visit the official Python website to download Python 3.12. You can download it by following this [link](https://www.python.org/downloads/release/python-312/).
+
+2. **Install pip:**
+
+   Ensure pip is installed by following the instructions on the [official website](https://pip.pypa.io/en/stable/installation/).
+
+
 
 ### 🛠️Installation
 <a name="installation"></a>
@@ -161,10 +170,6 @@ Discover the enthusiastic creators behind Wonder Pet and the individual contribu
 </p>
 <p align="center">
   22-07128@g.batstate-u.edu.ph
-</p>
-<p align="center">
-  Contributions (33.3%): Programmer, PowerPoint Presentation
-</p>
 
 <br>
 
@@ -177,9 +182,7 @@ Discover the enthusiastic creators behind Wonder Pet and the individual contribu
 <p align="center">
   22-03412@g.batstate-u.edu.ph
 </p>
-<p align="center">
-  Contributions (33.3%): Programmer, Video Presentation
-</p>
+
 <br>
 
 <p align="center">
@@ -191,12 +194,9 @@ Discover the enthusiastic creators behind Wonder Pet and the individual contribu
 <p align="center">
   22-03152@g.batstate-u.edu.ph
 </p>
-<p align="center">
-  Contributions (33.3%): Programmer, Documentation (README)
-</p>
 
 ---
-## 📊Self-Assessment
+## 📊Self-Assessment and Contributions
 
 <p align="justify">
   We, the Wonder Pet team, have conducted a self-assessment of our project based on various criteria. Here are the ratings for the criteria:
@@ -211,6 +211,18 @@ Discover the enthusiastic creators behind Wonder Pet and the individual contribu
 
 <p align="justify">
   These ratings reflect our evaluation of the project's performance in certain areas. We continuously strive to improve and appreciate your suggestions for future enhancements.
+</p>
+
+<p align="justify">
+  <strong>Breakdown of Contributions</strong>
+</p>
+
+- **Huelgas, Julianna Myane L.:** Programmer, PowerPoint Presentation - (33.3%)
+- **Lucero, Gio Kervin P.:** Programmer, Video Presentation - (33.3%)
+- **Magnaye, Maria Lourdes M.:** Programmer, Documentation (README) - (33.3%)
+
+<p align="justify">
+  These contributions illustrate the diverse skills each team member brought to the Wonder Pet project, showcasing their roles in programming, presentations, and documentation.
 </p>
 
 <p align="justify">
