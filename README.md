@@ -86,17 +86,6 @@ Make sure you have Python and pip installed:
    python -m pip install --upgrade pip
    ```
    
-2. **Create a new folder for Wonder Pet:**
-
-   ```bash
-   md WONDERPET
-   ```
-   
-3. Navigate to the newly created folder:
-   ```bash
-   cd WONDERPET
-   ```
-
 3. Clone the Wonder Pet repository to your local machine:
    ```bash
    git clone https://github.com/memelll/WonderPet.git
@@ -109,7 +98,7 @@ Make sure you have Python and pip installed:
    cd WONDER PET
    ```
    
-3. Install Pygame by running:
+5. Install Pygame by running:
    ```bash
    pip install -r requirements.txt
    ```
