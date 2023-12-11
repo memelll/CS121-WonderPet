@@ -159,7 +159,7 @@ SDG 15 aims to protect, restore, and sustainably use terrestrial ecosystems, inc
 
 ---
 ## 👥Meet the Team
-Discover the enthusiastic creators behind Wonder Pet and the individual contributions that bring our project to life!
+Discover the enthusiastic creators behind Wonder Pet!
 
 <br>
 <p align="center">
